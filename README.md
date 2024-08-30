@@ -1,7 +1,9 @@
 ## Bienvenido a mi perfil 👋
-Mi nombre es Diego Pinto P.
-<img src="{https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white}"/>
-![image]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
+My name is Diego Pinto P
+
+
+
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 <!--
 **El-Diegore/El-Diegore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
