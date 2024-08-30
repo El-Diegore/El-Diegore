@@ -1,5 +1,5 @@
-## Bienvenido a mi perfil 👋
-My name is Diego Pinto P
+## Hi there 👋
+My name is Diego, developer from Chile
 
 
 
