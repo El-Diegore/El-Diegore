@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bienvenido a mi perfil 👋
+Mi nombre es Diego Pinto P.
 
 <!--
 **El-Diegore/El-Diegore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
