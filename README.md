@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Diego, developer from Chile
+My name is Diego, developer from Chile.
 
-Mi [Portafolio](https://mi-portafolio-astro.netlify.app/)
+Mi [Portafolio](https://mi-portafolio-astro.netlify.app/) 💼
 
 
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
